@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sil</h1>
-<h3 align="center">A passionate web developer from Vietnamese</h3>
+<h3 align="center">A passionate web developer from Vietnam</h3>
 
 - 🔭 I’m currently working on [Superkickss](https://client-superkickss.herokuapp.com/)
 
