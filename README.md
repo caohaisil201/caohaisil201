@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sil</h1>
 <h3 align="center">A passionate web developer from Vietnam</h3>
 
-- 🔭 I’m currently working on [Superkickss](https://client-superkickss.herokuapp.com/)
+- 🔭 I’m currently Front-end developer
 
-- 🌱 I’m currently learning **front-end, back-end**
+- 🌱 I’m currently learning **back-end, typescript**
 
-- 💬 Ask me about **html, css, js, nodejs**
+- 💬 Ask me about **html, css, js, nodejs, reactjs**
 
 - 📫 How to reach me **caohaisil12345@gmail.com**
 
